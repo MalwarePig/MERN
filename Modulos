@@ -1,0 +1,6 @@
+npm i express   [express ]
+npm i mysql2    [mysql]
+npm i morgan [ver mensajes por consola backend]
+npm i nodemon -D [Reinicia codigo de servidor en cada cambio]
+
+npm i express mysql2 morgan nodemon
